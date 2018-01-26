@@ -1,3 +1,7 @@
 *.*
 !.gitignore
 !*.md
+!*.local
+!*.identcache
+!*.res
+!*.stat
